@@ -1,0 +1,9 @@
+{
+  "name": "agentman-alpha-equity-research",
+  "description": "Multi-agent equity research plugin with planning-first workflow, investor profile scoring, and advanced valuation (Comps + Merton Model + Asset-Based NAV). Orchestrates 7 specialized agents across 5 MCP tools. Evaluates stocks through Conservative, Moderate, and Aggressive investor lenses using a 50-point scoring rubric per profile. Supports Damodaran DCF, Comparable Company Analysis, Merton Model, and Asset-Based Valuation.",
+  "version": "2.3.0",
+  "author": {
+    "name": "Agentman Equity Research Assistant",
+    "email": "support@langalpha.com"
+  }
+}
