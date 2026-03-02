@@ -1,8 +1,0 @@
-{
-  "name": "startup-finance",
-  "version": "1.0.0",
-  "description": "Real-time financial health monitoring for SaaS startups. Track burn rate, cash runway, MRR, and key metrics using Mercury Bank integration.",
-  "author": {
-    "name": "Agentman.ai"
-  }
-}

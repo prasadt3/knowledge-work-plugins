@@ -1,8 +1,0 @@
-{
-  "name": "gcp-cost-analyzer",
-  "version": "1.0.0",
-  "description": "Analyze GCP bills, track project costs over time, identify savings opportunities, and right-size infrastructure. Works with billing exports, gcloud CLI, and Terraform to provide actionable cost optimization.",
-  "author": {
-    "name": "Agentman.ai"
-  }
-}

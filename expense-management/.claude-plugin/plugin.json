@@ -1,8 +1,0 @@
-{
-  "name": "expense-management",
-  "version": "1.0.0",
-  "description": "Intelligent expense categorization, budget tracking, and cost optimization for startups. Auto-categorize transactions, detect anomalies, and identify savings opportunities.",
-  "author": {
-    "name": "Agentman.ai"
-  }
-}

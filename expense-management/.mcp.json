@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "mercury": {
-      "category": "banking",
-      "description": "Mercury Bank integration for transaction data and expense tracking"
-    }
-  }
-}
